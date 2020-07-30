@@ -1,0 +1,104 @@
+{
+  "categorias": [
+    {
+      "titulo": "CLP - Controladores Lógico Programáveis",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Curso CLP - Inscreva-se",
+        "url": "https://www.hebelautomacao.com.br/cursos"
+      },
+      "videos": [
+        {
+          "titulo": "CLP - O que um profissional de automação industrial precisa saber - Na prática",
+          "url": "https://youtu.be/VVDRJaFo17Y"
+        },
+
+        {
+          "titulo": "A história do CLP",
+          "url": "https://youtu.be/bf6r_LbI8vg"
+        },
+        {
+          "titulo": "Programação Ladder",
+          "url": "https://youtu.be/_fXkEKOo7mQ"
+        },
+
+        {
+          "titulo": "Comandos elétricos - A base do Ladder",
+          "url": "https://youtu.be/SxWyTwRfDAg"
+        },
+        {
+          "titulo": "Conexão com CLP Altus",
+          "url": "https://youtu.be/Rge3-Uy66pk"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "IHM e Supervisórios",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Curos IHM e Supervisórios",
+        "url": "https://www.hebelautomacao.com.br/cursos"
+      },
+      "videos": [
+        {
+          "titulo": "Supervisório ScadaBR - MODBUS",
+          "url": "https://youtu.be/e-eugu-UWJo"
+        }
+      ]
+    },
+    {
+      "titulo": "IoT",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "IoT e Industria 4.0",
+        "url": "https://www.hebelautomacao.com.br/cursos"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "/"
+        }
+      ]
+    }
+  ]
+}
